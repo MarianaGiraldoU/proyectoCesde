@@ -1,2 +1,4 @@
-package com.example.intemprojet;public class Login {
+package com.example.intemprojet;
+
+public class Login {
 }
